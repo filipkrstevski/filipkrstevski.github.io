@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130.514" height="79.638" viewBox="0 0 130.514 79.638">
+  <g id="Group_18898" data-name="Group 18898" transform="translate(-1223.515 -6842.361)">
+    <path id="Icon_awesome-truck" data-name="Icon awesome-truck" d="M97.058,54.751H94.57V37.937a7.466,7.466,0,0,0-2.193-5.273L76.838,17.125a7.466,7.466,0,0,0-5.273-2.193H64.705V7.466A7.468,7.468,0,0,0,57.239,0H7.466A7.468,7.468,0,0,0,0,7.466V57.239a7.468,7.468,0,0,0,7.466,7.466H9.955a14.932,14.932,0,0,0,29.864,0H59.728a14.932,14.932,0,0,0,29.864,0h7.466a2.5,2.5,0,0,0,2.489-2.489V57.239A2.5,2.5,0,0,0,97.058,54.751ZM24.887,72.172a7.466,7.466,0,1,1,7.466-7.466A7.468,7.468,0,0,1,24.887,72.172Zm49.773,0a7.466,7.466,0,1,1,7.466-7.466A7.468,7.468,0,0,1,74.66,72.172ZM87.1,39.819h-22.4V22.4h6.859L87.1,37.937Z" transform="translate(1254.482 6842.361)"/>
+    <rect id="Rectangle_5118" data-name="Rectangle 5118" width="55" height="11" rx="5.5" transform="translate(1223.515 6856.578)" fill="#ffc815"/>
+    <path id="Rectangle_5118_-_Outline" data-name="Rectangle 5118 - Outline" d="M5.5,3a2.5,2.5,0,0,0,0,5h44a2.5,2.5,0,0,0,0-5H5.5m0-3h44a5.5,5.5,0,0,1,0,11H5.5a5.5,5.5,0,0,1,0-11Z" transform="translate(1223.515 6856.578)"/>
+    <rect id="Rectangle_5119" data-name="Rectangle 5119" width="46" height="12" rx="6" transform="translate(1246.515 6867.578)" fill="#ffc815"/>
+    <path id="Rectangle_5119_-_Outline" data-name="Rectangle 5119 - Outline" d="M6,3A3,3,0,0,0,6,9H40a3,3,0,0,0,0-6H6M6,0H40a6,6,0,0,1,0,12H6A6,6,0,0,1,6,0Z" transform="translate(1246.515 6867.578)"/>
+    <rect id="Rectangle_5120" data-name="Rectangle 5120" width="34" height="11" rx="5.5" transform="translate(1236.515 6879.578)" fill="#ffc815"/>
+    <path id="Rectangle_5120_-_Outline" data-name="Rectangle 5120 - Outline" d="M5.5,3a2.5,2.5,0,0,0,0,5h23a2.5,2.5,0,0,0,0-5H5.5m0-3h23a5.5,5.5,0,0,1,0,11H5.5a5.5,5.5,0,0,1,0-11Z" transform="translate(1236.515 6879.578)"/>
+  </g>
+</svg>

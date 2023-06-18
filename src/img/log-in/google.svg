@@ -1,0 +1,12 @@
+<svg id="Group_4805" data-name="Group 4805" xmlns="http://www.w3.org/2000/svg" width="76" height="20" viewBox="0 0 76 20">
+  <text id="Google" transform="translate(25 14)" fill="#6f768a" font-size="14" style='font-family:Montserrat,sans-serif' font-weight="600"><tspan x="0" y="0">Google</tspan></text>
+  <g id="google_original">
+    <rect id="Rectangle_4792" data-name="Rectangle 4792" width="20" height="20" fill="rgba(255,255,255,0)"/>
+    <g id="Group_4791" data-name="Group 4791" transform="translate(2.667 2.5)">
+      <path id="Path_4377" data-name="Path 4377" d="M19.7,12.495a8.573,8.573,0,0,0-.132-1.535H12.5v2.893h4.04a3.449,3.449,0,0,1-1.5,2.267V18h2.417A7.3,7.3,0,0,0,19.7,12.495Z" transform="translate(-5.002 -4.82)" fill="#4285f4"/>
+      <path id="Path_4378" data-name="Path 4378" d="M11.6,20.188a7.146,7.146,0,0,0,4.967-1.817l-2.426-1.879a4.545,4.545,0,0,1-6.74-2.382H4.9v1.941A7.5,7.5,0,0,0,11.6,20.188Z" transform="translate(-4.106 -5.191)" fill="#34a853"/>
+      <path id="Path_4379" data-name="Path 4379" d="M7.3,13.48a4.511,4.511,0,0,1,0-2.849V8.69H4.794A7.486,7.486,0,0,0,4,12.051a7.581,7.581,0,0,0,.794,3.37Z" transform="translate(-4 -4.552)" fill="#fbbc05"/>
+      <path id="Path_4380" data-name="Path 4380" d="M11.6,6.982A4.057,4.057,0,0,1,14.471,8.1l2.152-2.152A7.208,7.208,0,0,0,11.6,4,7.5,7.5,0,0,0,4.9,8.128l2.505,1.941A4.463,4.463,0,0,1,11.6,6.982Z" transform="translate(-4.106 -3.999)" fill="#ea4335"/>
+    </g>
+  </g>
+</svg>
